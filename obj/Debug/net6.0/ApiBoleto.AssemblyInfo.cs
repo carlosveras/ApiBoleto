@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiBoleto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34b21384a6ffe98454fea7c05d12f9244166e09c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiBoleto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiBoleto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

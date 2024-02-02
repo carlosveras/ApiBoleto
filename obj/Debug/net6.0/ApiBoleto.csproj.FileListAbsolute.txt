@@ -1,10 +1,3 @@
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.csproj.AssemblyReference.cache
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.GeneratedMSBuildEditorConfig.editorconfig
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.AssemblyInfoInputs.cache
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.AssemblyInfo.cs
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.csproj.CoreCompileInputs.cache
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.MvcApplicationPartsAssemblyInfo.cs
-C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.MvcApplicationPartsAssemblyInfo.cache
 C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\appsettings.Development.json
 C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\appsettings.json
 C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\ApiBoleto.exe
@@ -52,6 +45,14 @@ C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\System.Text.Json.dll
 C:\TestesDeEmpresas\Questor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.csproj.AssemblyReference.cache
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.AssemblyInfoInputs.cache
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.AssemblyInfo.cs
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.csproj.CoreCompileInputs.cache
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.MvcApplicationPartsAssemblyInfo.cs
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.MvcApplicationPartsAssemblyInfo.cache
+C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\ApiBoleto.sourcelink.json
 C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\staticwebassets.build.json
 C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\staticwebassets.development.json
 C:\TestesDeEmpresas\Questor\obj\Debug\net6.0\staticwebassets\msbuild.ApiBoleto.Microsoft.AspNetCore.StaticWebAssets.props
